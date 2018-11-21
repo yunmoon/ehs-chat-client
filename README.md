@@ -8,7 +8,7 @@
 <script src="/dist/ehsChat.client.js"></script>
 ```
 #### 在vue中
-
+基于vue实现的应用[demo](https://github.com/yunmoon/vue-chat-demo)
 ```bash
 npm install ehs-chat-client
 ```
